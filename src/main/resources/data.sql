@@ -22,6 +22,7 @@ insert into car values
    "X100",
    "White"
 );
+
 insert into car values
 (
    4,
@@ -74,6 +75,14 @@ insert into car values
 (
    10,
    "Chinkara",
+   "Hinduja Group",
+   "XQV500",
+   "White"
+);
+insert into car values
+(
+   10,
+   "Chinkara123",
    "Hinduja Group",
    "XQV500",
    "White"
