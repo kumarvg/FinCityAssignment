@@ -9,8 +9,16 @@ public class NewCar {
 	
 	private String address;
 	
+	private String newAdd;
 	
 	
+	
+	public String getNewAdd() {
+		return newAdd;
+	}
+	public void setNewAdd(String newAdd) {
+		this.newAdd = newAdd;
+	}
 	public String getAddress() {
 		return address;
 	}
@@ -35,8 +43,5 @@ public class NewCar {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
-	
-	
 	
 }
