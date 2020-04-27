@@ -7,7 +7,16 @@ public class NewCar {
 	
 	private String Collage;
 	
+	private String address;
 	
+	
+	
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
 	public String getCollage() {
 		return Collage;
 	}
